@@ -4,6 +4,6 @@ int main() {
 	printf("alsjflsdjfsdf");
 	printf("lksjlkdjfslf");
 
-	printf("new from cloud");
+	printf("new from local");
 	return 0;
 }
